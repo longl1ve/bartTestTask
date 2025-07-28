@@ -1,0 +1,6 @@
+@bartTestTask_HostAddress = http://localhost:5237
+
+GET {{bartTestTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
