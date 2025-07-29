@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bartTestTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97c6fd7b8ad5ab5c9fb95956ab55730449a9feb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("bartTestTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bartTestTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
